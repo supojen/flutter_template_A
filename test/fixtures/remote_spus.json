@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Keyboard",
+        "description": "machanical keyboard"
+    },
+    {
+        "id": 2,
+        "name": "bevarage",
+        "description": "good to drink"
+    }
+]
